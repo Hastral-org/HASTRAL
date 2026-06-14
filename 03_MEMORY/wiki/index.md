@@ -57,8 +57,12 @@ _Articles_: [[topics/operations/protocols/robouno|RoboUno Protocol]].
 **Purpose**: Chronological record of significant organisational events.
 _Articles_: [[events/aomori-academy-opening|Aomori Academy Opening]].
 
+### [[topics/codecraft/index|Codecraft]]
+
+**Purpose**: Software engineering patterns, language standards, and technical implementation details.
+_Articles_: [[topics/codecraft/javascript-semicolons|JavaScript Semicolons]], [[topics/codecraft/physics/geometric-algebra-rotors|Geometric Algebra Rotors]], [[topics/codecraft/physics/rotor-roll-snapping|Rotor Roll Snapping]], [[topics/codecraft/physics/local-vs-global-rotor-operations|Local vs. Global Rotor Operations]], [[topics/codecraft/physics/euler-to-rotor-conversion|Euler to Rotor Conversion]].
+
 **Purpose**: 3D rotation, geometric algebra, and rotor mechanics.
-_Articles_: [[topics/codecraft/physics/geometric-algebra-rotors|Geometric Algebra Rotors]], [[topics/codecraft/physics/rotor-roll-snapping|Rotor Roll Snapping]], [[topics/codecraft/physics/local-vs-global-rotor-operations|Local vs. Global Rotor Operations]], [[topics/codecraft/physics/euler-to-rotor-conversion|Euler to Rotor Conversion]].
 
 ### [[topics/operations/markdownlint/index|Markdownlint]]
 

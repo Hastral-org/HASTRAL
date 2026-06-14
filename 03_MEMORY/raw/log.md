@@ -6,6 +6,12 @@ tags: [log, index]
 
 # Wiki Ingestion Log
 
+## Ingestion Session (2026-06-14)
+
+- Processing: `javascript_conventions_and_IDE_config.md`
+- Status: Completed
+- Destination: `wiki/topics/codecraft/javascript-semicolons.md`
+
 ## Ingestion Session (2026-06-12)
 
 - Processing: `1-.hastral-ops-0249.md`
