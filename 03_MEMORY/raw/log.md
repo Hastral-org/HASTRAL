@@ -6,6 +6,12 @@ tags: [log, index]
 
 # Wiki Ingestion Log
 
+## Ingestion Session (2026-06-15)
+
+- Processing: `Get-GitHubTree.md`
+- Status: Completed
+- Destination: `wiki/topics/codecraft/github-markdown-formatting.md`, `wiki/topics/operations/windows-cli-tips.md`
+
 ## Ingestion Session (2026-06-14)
 
 - Processing: `javascript_conventions_and_IDE_config.md`

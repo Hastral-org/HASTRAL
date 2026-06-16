@@ -60,7 +60,7 @@ _Articles_: [[events/aomori-academy-opening|Aomori Academy Opening]].
 ### [[topics/codecraft/index|Codecraft]]
 
 **Purpose**: Software engineering patterns, language standards, and technical implementation details.
-_Articles_: [[topics/codecraft/javascript-semicolons|JavaScript Semicolons]], [[topics/codecraft/physics/geometric-algebra-rotors|Geometric Algebra Rotors]], [[topics/codecraft/physics/rotor-roll-snapping|Rotor Roll Snapping]], [[topics/codecraft/physics/local-vs-global-rotor-operations|Local vs. Global Rotor Operations]], [[topics/codecraft/physics/euler-to-rotor-conversion|Euler to Rotor Conversion]].
+_Articles_: [[topics/codecraft/javascript-semicolons|JavaScript Semicolons]], [[topics/codecraft/physics/geometric-algebra-rotors|Geometric Algebra Rotors]], [[topics/codecraft/physics/rotor-roll-snapping|Rotor Roll Snapping]], [[topics/codecraft/physics/local-vs-global-rotor-operations|Local vs. Global Rotor Operations]], [[topics/codecraft/physics/euler-to-rotor-conversion|Euler to Rotor Conversion]], [[topics/codecraft/github-markdown-formatting|GitHub Markdown Formatting]].
 
 **Purpose**: 3D rotation, geometric algebra, and rotor mechanics.
 
@@ -82,7 +82,7 @@ _Articles_: [[topics/operations/hardware/microsd-failure-diagnostics|microSD Fai
 ### [[topics/operations/security/index|Security]]
 
 **Purpose**: System audits, post-mortems, and doctrine maintenance.
-_Articles_: [[session_friction_audit|Session Friction Audit]], [[session_post_mortem_doctrine_disconnect|Post-Mortem & Doctrine Disconnect]], [[topics/operations/security/predictable_ids|Predictable IDs]], [[server-security-fundamentals|Server Security Fundamentals]], [[tls-jwt-implementation|TLS & JWT Implementation]], [[topics/operations/security/nwjs-env-exposure|NW.js Env Exposure]], [[topics/security/antigravity-vulnerabilities|Agentic AI Vulnerabilities (Antigravity)]].
+_Articles_: [[topics/operations/windows-cli-tips|Windows CLI Tips]], [[session_friction_audit|Session Friction Audit]], [[session_post_mortem_doctrine_disconnect|Post-Mortem & Doctrine Disconnect]], [[topics/operations/security/predictable_ids|Predictable IDs]], [[server-security-fundamentals|Server Security Fundamentals]], [[tls-jwt-implementation|TLS & JWT Implementation]], [[topics/operations/security/nwjs-env-exposure|NW.js Env Exposure]], [[topics/security/antigravity-vulnerabilities|Agentic AI Vulnerabilities (Antigravity)]].
 
 ### [[topics/operations/maritime/index|Maritime Operations]]
 
