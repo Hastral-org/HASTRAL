@@ -13,7 +13,7 @@ if "%~1"=="" (
 cd /d "%~dp0"
 
 :: Run your Node script safely
-node "clean_kml.js" "%~1"
+node "kml_converter.js" "%~1"
 
 :: Keep the window open for 3 seconds so you can see the success message
 timeout /t 3
